@@ -1,0 +1,8 @@
+{
+    "modelo_base": "small",
+    "epoch": 10,
+    "training_loss": 0.05467798282588085,
+    "validation_loss": 0.05399851680106196,
+    "wer": 0.020290175558564945,
+    "tipo_entrenamiento": "simulacion"
+}
